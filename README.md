@@ -22,3 +22,5 @@ Wilaya -> commune
 ## Contribuer
 
 Contributions, remarques et suggestions bienvenues.
+l'objectif est de faire un code qui ressemble à ça 
+https://github.com/gregoiredavid/france-geojson
