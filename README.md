@@ -2,7 +2,9 @@
 
 Ce projet contient les tracés des entités géographiques et administratives Algériennes suivantes au format [GeoJSON](http://geojson.org/) :
 
-* Wilaya
+les données sont générées depuis ce site http://geojson.io
+
+* Wilayas
 * Communes
 
 ## Organisation des fichiers
