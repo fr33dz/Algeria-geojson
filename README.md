@@ -24,3 +24,6 @@ Wilaya -> commune
 Contributions, remarques et suggestions bienvenues.
 l'objectif est de faire un code qui ressemble à ça 
 https://github.com/gregoiredavid/france-geojson
+
+# mise a jour 22/06/2020
+# all-wilayas.geojson conetient toutes les wilayas d'Algerie : merci à @iladan0  ;)
